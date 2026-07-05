@@ -24,4 +24,4 @@
 - Exploring Machine Learning algorithms and AI-assisted development
 
 ### 📫 Reach me
-[LinkedIn] | [Email] | [Portfolio]
+[LinkedIn](https://www.linkedin.com/in/ayush-kumar-prajapati/) | [Email](mailto:ayushkumarprajapati59681@gmail.com) 
